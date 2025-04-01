@@ -1,5 +1,5 @@
 # Online Book Store Project Using SQL
-This project is a SQL-based Online Book Store that manages book customer, books and orders details. It enables users to browse books, place orders, and manage stock efficiently.
+This project is a SQL-based Online Book Store that manages customer, books and orders details. It enables users to browse books, place orders, and manage stock efficiently.
 
 ## 🏗 Database Schema
 The database includes the following key tables:
