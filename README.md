@@ -11,6 +11,6 @@ Customers 👥 (Customer ID, Name, Email, Phone, City, Country)
 Orders 🛒 (Order ID, Customer ID, Book ID, Quantity, Total Price, Order Date)
 
 ## ⚙️ Technologies Used
-SQL (MySQL/PostgreSQL/SQL Server)
+SQL (MySQL)
 
 Database Management System (DBMS)
